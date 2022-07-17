@@ -1,25 +1,29 @@
 body {
     background-color: rgb(0, 0, 0);
-    margin: 0em 10em 0em 10em ;
+    margin: 0vw 5vw 0vw 5vw ;
 }
 
 .image {
     text-align: center;
 }
 
+img {
+    width: 60%;
+}
 
 .main-heading {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 5em;
-    text-align: center;
+    font-size: 4rem;
     color: goldenrod;
+    text-align: center;
 }
 
 .nav {
     border: 1px solid burlywood;
-    margin: 0em 10em 0em 10em ;
-    padding: 1em 0em 1em 0em ;
+    width: 50vw;
+    margin: auto;
 }
+
 
 ul li {
     color: aliceblue;
@@ -30,7 +34,7 @@ ul li {
 a {
     text-decoration: none;
     color:rgb(245, 234, 171);
-    line-height: 1.8em;
+    line-height: 1.8rem;
 }
 
 ol li {
@@ -43,7 +47,7 @@ ol li {
 h1 {
     color:burlywood;
     text-align: center;
-    font-size: 3em;
+    font-size: 3rem;
     text-decoration: underline;
     margin: 2em 0em 1em 0em ;
 }
@@ -54,12 +58,12 @@ p {
 }
 
 .top {
-    font-size: 1.7em;
+    font-size: 1.7rem;
     text-decoration: none;
 }
 
 .home {
-    font-size: 1.7em;
+    font-size: 1.7rem;
     text-decoration: none;
 }
 
